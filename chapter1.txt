@@ -1,1 +1,2 @@
 story should be realistic.
+story should not be long.
